@@ -19,7 +19,7 @@ Logo.propTypes = {
 Logo.defaultProps = {
   to: '/',
   src: `${CONSTANTS.STATIC_IMAGES_PATH}blue-logo.png`,
-  alt: 'logo',
+  alt: 'logo: squadhelp',
 };
 
 export default Logo;
