@@ -1,0 +1,20 @@
+[
+  {
+    "icon":"fa-whmcs",
+    "title":"managed contests",
+    "description":"Combine the power of crowdsourcing with the rich experience of our branding consultants. Get a complete agency-level experience.",
+    "link":"/managed-contests"
+  },
+  {
+    "icon":"fa-users",
+    "title":"audience testing",
+    "description":"Get unbiased feedback from real people to choose your most important brand elements with confidence!",
+    "link":"/audience-testing"
+  },
+  {
+    "icon":"fa-trademark",
+    "title":"trademark support",
+    "description":"Work with our team of experienced licensed trademark attorneys to protect your name, tagline, and logo with the USPTO.",
+    "link":"/trademark-supports"
+  }
+]

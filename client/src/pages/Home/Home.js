@@ -8,6 +8,8 @@ import Footer from '../../components/Footer/Footer';
 import styles from './Home.module.sass';
 import carouselConstants from '../../carouselConstants';
 import Spinner from '../../components/Spinner/Spinner';
+import StartContest from '../../components/HomeComponents/StartContest/StartContest';
+import AgencyLevel from '../../components/HomeComponents/AgencyLevel/AgencyLevel';
 
 const Home = (props) => {
   const [index, setIndex] = useState(0);
@@ -214,6 +216,8 @@ const Home = (props) => {
               />
             </div>
           </div>
+          <StartContest />
+          <AgencyLevel  />
           <Footer />
         </>
       )}
