@@ -5,4 +5,4 @@ authRouter.post('/sign-up', AuthController.signUp);
 authRouter.post('/sign-in', AuthController.signIn);
 authRouter.post('/refresh', AuthController.refresh);
 
-module.export = authRouter;
+module.exports = authRouter;
